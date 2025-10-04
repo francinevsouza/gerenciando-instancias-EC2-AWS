@@ -45,7 +45,7 @@ Com o avanço do desafio, percebi que boas práticas fazem toda a diferença, es
 
 ---
 
-## 🪣 4. Planejando Arquiteturas com Draw.io
+## 📝 4. Planejando Arquiteturas com Draw.io
 
 Durante o estudo, aprendi a utilizar o **Draw.io** para planejar e visualizar a arquitetura AWS antes da execução.  
 Esse passo me ajudou a **entender o fluxo entre os serviços** e a identificar pontos de automação.
