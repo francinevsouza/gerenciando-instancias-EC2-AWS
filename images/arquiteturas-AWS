@@ -1,0 +1,11 @@
+# 🧩 Arquiteturas AWS — EC2, EBS, S3 e Lambda
+
+## 🖼️ 1. Arquitetura — Fluxo do Amazon EBS com EC2
+
+![Arquitetura EBS com EC2](../images/arquitetura-ebs-ec2.png)
+
+---
+
+## 🖼️ 2. Arquitetura — Fluxo S3 + Lambda
+
+![Arquitetura S3 com Lambda](../images/arquitetura-s3-lambda.png)
