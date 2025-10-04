@@ -30,25 +30,25 @@ Este projeto faz parte do desafio da [DIO - Digital Innovation One](https://www.
 
 ## 📸 Demonstração
 
-- Arquitetura EC2 - EBS
+- Arquitetura Fluxo EBS
 <img width="812" height="578" alt="Arquitetura AWS com EC2 drawio" src="https://github.com/user-attachments/assets/11592f12-3d58-4d3a-a1a9-5f4bde2e191f" /> 
 
 >>>
 
-- Arquitetura S3 + Lambda
+- Arquitetura Fluxo S3 + Lambda
 <img width="644" height="282" alt="Arquitetura AWS com S3 e Lambda Function drawio" src="https://github.com/user-attachments/assets/ef78d555-d598-4ecc-b569-5b2c1db574d4" /> 
 
 ---
 
 ## 🏗️ Arquiteturas AWS (draw.io)  
 Durante o estudo, foram criados diagramas para entender melhor o fluxo dos serviços:  
-- [Arquitetura EC2](notes/arquiteturas.md#arquitetura-de-fluxo-do-ec2)  
+- [Arquitetura EBS](notes/arquiteturas.md#arquitetura-de-fluxo-ebs)  
 - [Arquitetura S3 + Lambda](notes/arquiteturas.md#arquitetura-de-integração-s3--lambda)  
 
 ---
 
 ## 📚 Aprendizados
-- Entendi a diferença entre **AMI padrão** e **AMI customizada**  
+- Entendi a diferença entre **AMI** e **Snapshot**  
 - Aprendi a criar **Snapshots** de volumes EBS para backup e recuperação  
 - Vi como a **AMI** facilita a replicação de instâncias com a mesma configuração
 - Entendi a importância da criação dos desenhos de arquitetura para o bom planejamento de um projeto AWS 
