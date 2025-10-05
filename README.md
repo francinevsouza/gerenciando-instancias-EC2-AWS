@@ -1,7 +1,7 @@
 # 🚀 Gerenciando Instâncias EC2 na AWS (Desafio DIO)
 
 ## 📌 Descrição  
-Este projeto faz parte do desafio da [DIO - Digital Innovation One](https://www.dio.me/), no qual foi proposto praticar conceitos fundamentais de **gerenciamento de instâncias EC2 na AWS**, com foco em criação e utilização de **AMIs (Amazon Machine Images)** e **Snapshots EBS**, através da criação de desenhos de arquiteturas utilizando a ferramenta [draw.io](https://www.drawio.com/). 
+Este projeto faz parte do desafio da [DIO - Digital Innovation One](https://www.dio.me/), no qual foi proposto praticar conceitos fundamentais de **gerenciamento de instâncias EC2 na AWS**, com foco em criação e utilização de **AMIs (Amazon Machine Images)** e **Snapshots EBS**, através da criação de desenhos de arquiteturas utilizando a ferramenta [Draw.io](https://www.drawio.com/). 
 
 ---
 
@@ -10,12 +10,12 @@ Este projeto faz parte do desafio da [DIO - Digital Innovation One](https://www.
 - Compreender como funcionam os **Snapshots EBS**
 - Criar o desenho de uma arquitetura com **instância EC2**
 - Criar o desenho de uma arquitetura com **S3** e **Lambda Function**
-- Utilizar o site [draw.io](https://www.drawio.com/) para criar o desenho das arquiteturas propostas
+- Utilizar o site [Draw.io](https://www.drawio.com/) para criar o desenho das arquiteturas propostas
 
 ---
 
 ## 🛠️ Tecnologias e Serviços Utilizados
-- **draw.io** → Aplicativo de diagramação online
+- **Draw.io** → Aplicativo de diagramação online
  
 ---
 
@@ -31,13 +31,13 @@ Este projeto faz parte do desafio da [DIO - Digital Innovation One](https://www.
 ## 📸 Demonstração
 
 - Arquitetura Fluxo EBS
+<img width="812" height="578" alt="arquitetura-ebs-ec2" src="https://github.com/user-attachments/assets/b8635772-33d5-46d8-a3b2-b96092fc6f23" />
 
-[![Arquitetura EBS com EC2](../images/arquitetura-ebs-ec2.png)]
-
+>>>
 
 - Arquitetura Fluxo S3 + Lambda
+<img width="644" height="282" alt="arquitetura-s3-lambda" src="https://github.com/user-attachments/assets/5dacaaa1-ba38-4f0e-93f7-a824596758be" />
 
-[![Arquitetura S3 com Lambda](../images/arquitetura-s3-lambda.png)]
 
 ---
 
