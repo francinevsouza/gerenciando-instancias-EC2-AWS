@@ -31,12 +31,13 @@ Este projeto faz parte do desafio da [DIO - Digital Innovation One](https://www.
 ## 📸 Demonstração
 
 - Arquitetura Fluxo EBS
-<img width="812" height="578" alt="Arquitetura AWS com EC2 drawio" src="https://github.com/user-attachments/assets/11592f12-3d58-4d3a-a1a9-5f4bde2e191f" /> 
 
->>>
+[![Arquitetura EBS com EC2](../images/arquitetura-ebs-ec2.png)]
+
 
 - Arquitetura Fluxo S3 + Lambda
-<img width="644" height="282" alt="Arquitetura AWS com S3 e Lambda Function drawio" src="https://github.com/user-attachments/assets/ef78d555-d598-4ecc-b569-5b2c1db574d4" /> 
+
+[![Arquitetura S3 com Lambda](../images/arquitetura-s3-lambda.png)]
 
 ---
 
